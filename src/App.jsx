@@ -7,6 +7,7 @@ import Header from "./components/Header.jsx";
 import Home from "./components/views/Home.jsx";
 import Form_News from "./components/views/Form_News.jsx";
 import List from "./components/views/List.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/form" element={<Form_News />} />
           <Route path="/list" element={<List />} />
         </Routes>
+        <Footer />
       </BrowserRouter>
     </div>
   );
