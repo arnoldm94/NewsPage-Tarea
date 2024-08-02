@@ -1,5 +1,7 @@
 import { useState } from "react";
 import "./assets/sass/app.styles.scss";
+import "../node_modules/bootstrap/scss/bootstrap.scss";
+import "bootstrap/dist/js/bootstrap.esm.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
