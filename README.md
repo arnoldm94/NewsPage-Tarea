@@ -1,20 +1,10 @@
-# Título del Proyecto
-
-Pagina de noticias
+# Pagina de Noticias
 
 ## Comenzando 🚀
 
-Recuerda hacer installacion de los paquetes de Node_modules! para ejecutar en el localhost la pagina de ejemplo que he creado...
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+Recuerda hacer instalacion de los paquetes de Node_modules! para ejecutar en el localhost la pagina de ejemplo que he creado...
 
 ## Construido con 🛠️
-
-"axios": "^1.7.2",
-"bootstrap": "^5.3.3",
-"react-dom": "^18.3.1",
-"react-router-dom": "^6.25.1",
-"sass": "^1.77.8"
 
 - [axios](http://) - peticiones de APIs
 - [bootstrap](https://) - para estilar
