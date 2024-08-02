@@ -1,6 +1,6 @@
 import axios from "axios";
 import React from "react";
-import Article from "./Article";
+import Article from "../Article";
 import { useState, useEffect } from "react";
 
 const List = () => {
